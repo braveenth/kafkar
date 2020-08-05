@@ -36,3 +36,10 @@ Now, ensure that the ELM327 is powered on and ready to pair. The following comma
 > pair [device Bluetooth address]
 > connect [device Bluetooth address]
 ```
+
+
+Step 6: Ensure Kafka Zookeeper Instance and Brokers are Up
+
+Step 7: Run Python Program (To-Do)
+
+Step 8: Validate data
