@@ -40,6 +40,6 @@ Now, ensure that the ELM327 is powered on and ready to pair. The following comma
 
 Step 6: Ensure Kafka Zookeeper Instance and Brokers are Up
 
-Step 7: Run Python Program (To-Do)
+Step 7: Run Python Program (To-Do) (Kafka + Spark)
 
 Step 8: Validate data
